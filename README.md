@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ghadig
-- 👀 I’m interested in programming & data.
+- 👀 Data Scientist 
 - 📫 How to reach me on twitter @GhadiIT
 
 <!---
